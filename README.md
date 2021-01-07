@@ -6,7 +6,7 @@ The software is a simple "Hello World" message.
 
 This code functionally has no purpose. It was created purely to test syncing with the cloud.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/L7NUkwEHMsk)
 
 # Development Environment
 
